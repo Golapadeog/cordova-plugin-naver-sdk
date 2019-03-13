@@ -77,7 +77,7 @@
                 <dict>
                     <key>CFBundleURLSchemes</key>
                     <array>
-                        <string>naver-account-login-test</string>
+                        <string>$OAUTH_CLIENT_APP_SCHEME</string>
                     </array>
                 </dict>
             </array>
